@@ -23,7 +23,7 @@ This project is from Front-End Web Development. The Big Nerd Ranch Guide. Part I
 - start up project: run `browser-sync start --server --files "*.htm, stylesheets/*.css"` command prompt to view web page in browser (on autoreload)
 - checkout Google Chrome's Developers Tools: Elements
 __screenshot__
-![first ottegram](/img/screenshot/ottergram2.png)
+![first ottegram](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram2.PNG)
 
 ### Styles
 
@@ -31,7 +31,7 @@ __screenshot__
 - prepare html for styling: by adding classes to elements
 - begin styling: by changing color, adding font, adjusting space e.t.c
 __screenshot__
-![ottegram+style](/img/screenshot/ottergram3.png)
+![ottegram+style](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram3.PNG)
 
 ### Responsive Layouts with Flexbox
 
@@ -39,14 +39,14 @@ __screenshot__
 - use flexbox
 - absolute and relative positioning
 __screenshot__
-![ottegram responsive layout](/img/screenshot/ottergram4.png)
+![ottegram responsive layout](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram4.PNG)
 
 ### Adaptive Layout with Media
 
 - resetting the viewport
 - adding a media query
 __screenshot__
-![ottegram adaptive layout](/img/screenshot/ottergram5.png)
+![ottegram adaptive layout](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram5.PNG)
 
 ### Handling Event with JavaScript
 
@@ -54,7 +54,7 @@ __screenshot__
 - adding an event listener
 - accessing and iterating through thumbnails
 __screenshot__
-![ottegram javascript event](/img/screenshot/ottergram6.png)
+![ottegram javascript event](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram6.PNG)
 
 ### Visual Effects with CSS
 
@@ -62,4 +62,4 @@ __screenshot__
 - state changes with css transitions
 - custom timing functions
 __screenshot__
-![ottegram css effects](/img/screenshot/ottergram7.png)
+![ottegram css effects](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram7.PNG)
