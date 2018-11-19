@@ -22,6 +22,7 @@ This project is from Front-End Web Development. The Big Nerd Ranch Guide. Part I
   - add favicon icon
 - start up project: run `browser-sync start --server --files "*.htm, stylesheets/*.css"` command prompt to view web page in browser (on autoreload)
 - checkout Google Chrome's Developers Tools: Elements
+
 __screenshot__
 ![first ottegram](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram2.PNG)
 
@@ -30,6 +31,7 @@ __screenshot__
 - create a styling baseline: using [normalize.css file](https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css)
 - prepare html for styling: by adding classes to elements
 - begin styling: by changing color, adding font, adjusting space e.t.c
+
 __screenshot__
 ![ottegram+style](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram3.PNG)
 
@@ -45,6 +47,7 @@ __screenshot__
 
 - resetting the viewport
 - adding a media query
+
 __screenshot__
 ![ottegram adaptive layout](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram5.PNG)
 
@@ -53,6 +56,7 @@ __screenshot__
 - prepare the anchor tag for duty
 - adding an event listener
 - accessing and iterating through thumbnails
+
 __screenshot__
 ![ottegram javascript event](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram6.PNG)
 
@@ -61,5 +65,6 @@ __screenshot__
 - hidding and showing the detail image
 - state changes with css transitions
 - custom timing functions
+
 __screenshot__
 ![ottegram css effects](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram7.PNG)
