@@ -40,6 +40,7 @@ __screenshot__
 - expand the interface
 - use flexbox
 - absolute and relative positioning
+
 __screenshot__
 ![ottegram responsive layout](https://github.com/JohnJohnsonOkah/Ottergram/blob/master/img/screenshot/ottergram4.PNG)
 
